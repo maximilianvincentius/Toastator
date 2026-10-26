@@ -3,6 +3,58 @@
 **2D Game & Art Portfolio · Adobe Photoshop · Unity · C#**  
 Created and developed by **Maximilian Vincentius**.
 
+## About the Project
+
+**Toastator** is a stylized, kitchen-themed game featuring a chef character, bread and crouton enemies, and a toaster boss. Its visual collection includes playable-character designs, weapon concepts, collectible items, kitchen environments, skill illustrations, combat effects, and game interface artwork.
+
+Developed by **Maximilian Vincentius**, the project uses **Adobe Photoshop** for the artwork, **Unity** as the game engine, and **C#** for development. The two YouTube videos above present the gameplay and animation showcase.
+
+> **Portfolio-only repository:** This is a curated visual showcase, not a downloadable game or Unity source repository. Unity source project files, C# scripts, editable Photoshop/PSD documents, and playable builds are **not included**.
+
+## Project Information
+
+| Item | Details |
+| --- | --- |
+| Project | **Toastator** |
+| Creator & Developer | **Maximilian Vincentius** |
+| Project Type | Game and 2D asset portfolio |
+| Visual Theme | Stylized kitchen, chef, bread-themed opponents |
+| Art Production | Adobe Photoshop |
+| Game Engine | Unity |
+| Programming Language | C# |
+| Included Media | **113 PNG asset showcases**, **2 JPG video banners**, and **10 JPG feature screenshots** |
+| Video Previews | Gameplay and animation showcase on YouTube |
+| Repository Scope | Showcase imagery and documentation only |
+
+## Visual & Gameplay Highlights
+
+The supplied showcase assets depict the following elements:
+
+- **Characters:** chef player, three levels of chef-clone artwork, bread and crouton enemies, and a toaster boss.
+- **Kitchen environments:** flooring, walls, doors, industrial kitchen equipment, counters, appliances, and props.
+- **Items and attacks:** coin, HP/XP drop artwork, bread-themed items, knife variants, basic attack, and explosive toast.
+- **Skill art:** labeled skill icons with level variations and corresponding upgrade-effect artwork.
+- **Animation and effects:** ambient fire, steam, aura, explosion sequences, slashes, sparks, trails, rings, and other effect variations.
+- **Game interface:** menu buttons, HUD elements, player profile, mission and level-up panels, victory and defeat screens.
+
+## Production Workflow
+
+### 1. Visual Design & Asset Creation
+
+Character art, game branding, backgrounds, item designs, kitchen elements, weapons, and user-interface assets were prepared using **Adobe Photoshop**.
+
+### 2. Animation & Effects
+
+The showcase includes animation-related image assets, sprite-sheet artwork, and multiple levels of combat-effect visuals. The project's animation results are presented in the [animation showcase video](https://www.youtube.com/watch?v=TaLnoaemmos&autoplay=1).
+
+### 3. Unity & C# Development
+
+**Unity** and **C#** were used for the game. The [gameplay video](https://www.youtube.com/watch?v=sqC8hEsbm7k&autoplay=1) is the demonstration of the playable experience; the implementation source files are not part of this public repository.
+
+### 4. Portfolio Documentation
+
+Selected visual assets were exported as PNG files and organized into topical folders. Each asset is displayed individually below and can be opened at its original resolution.
+
 ## ▶ Gameplay Showcase
 
 | **Watch Toastator Gameplay on YouTube** |
@@ -60,58 +112,6 @@ Ten gameplay feature screenshots, presented in order. Click an image to view its
 | [![Game Over & Recovery](assets/09-game-features/10-game-over-and-recovery.jpg)](assets/09-game-features/10-game-over-and-recovery.jpg) |
 
 **Click either banner to watch on YouTube.** Each link requests immediate playback using `autoplay=1`. Actual autoplay behavior is controlled by YouTube, browser settings, and device policies.
-
-## About the Project
-
-**Toastator** is a stylized, kitchen-themed game featuring a chef character, bread and crouton enemies, and a toaster boss. Its visual collection includes playable-character designs, weapon concepts, collectible items, kitchen environments, skill illustrations, combat effects, and game interface artwork.
-
-Developed by **Maximilian Vincentius**, the project uses **Adobe Photoshop** for the artwork, **Unity** as the game engine, and **C#** for development. The two YouTube videos above present the gameplay and animation showcase.
-
-> **Portfolio-only repository:** This is a curated visual showcase, not a downloadable game or Unity source repository. Unity source project files, C# scripts, editable Photoshop/PSD documents, and playable builds are **not included**.
-
-## Project Information
-
-| Item | Details |
-| --- | --- |
-| Project | **Toastator** |
-| Creator & Developer | **Maximilian Vincentius** |
-| Project Type | Game and 2D asset portfolio |
-| Visual Theme | Stylized kitchen, chef, bread-themed opponents |
-| Art Production | Adobe Photoshop |
-| Game Engine | Unity |
-| Programming Language | C# |
-| Included Media | **113 PNG asset showcases**, **2 JPG video banners**, and **10 JPG feature screenshots** |
-| Video Previews | Gameplay and animation showcase on YouTube |
-| Repository Scope | Showcase imagery and documentation only |
-
-## Visual & Gameplay Highlights
-
-The supplied showcase assets depict the following elements:
-
-- **Characters:** chef player, three levels of chef-clone artwork, bread and crouton enemies, and a toaster boss.
-- **Kitchen environments:** flooring, walls, doors, industrial kitchen equipment, counters, appliances, and props.
-- **Items and attacks:** coin, HP/XP drop artwork, bread-themed items, knife variants, basic attack, and explosive toast.
-- **Skill art:** labeled skill icons with level variations and corresponding upgrade-effect artwork.
-- **Animation and effects:** ambient fire, steam, aura, explosion sequences, slashes, sparks, trails, rings, and other effect variations.
-- **Game interface:** menu buttons, HUD elements, player profile, mission and level-up panels, victory and defeat screens.
-
-## Production Workflow
-
-### 1. Visual Design & Asset Creation
-
-Character art, game branding, backgrounds, item designs, kitchen elements, weapons, and user-interface assets were prepared using **Adobe Photoshop**.
-
-### 2. Animation & Effects
-
-The showcase includes animation-related image assets, sprite-sheet artwork, and multiple levels of combat-effect visuals. The project's animation results are presented in the [animation showcase video](https://www.youtube.com/watch?v=TaLnoaemmos&autoplay=1).
-
-### 3. Unity & C# Development
-
-**Unity** and **C#** were used for the game. The [gameplay video](https://www.youtube.com/watch?v=sqC8hEsbm7k&autoplay=1) is the demonstration of the playable experience; the implementation source files are not part of this public repository.
-
-### 4. Portfolio Documentation
-
-Selected visual assets were exported as PNG files and organized into topical folders. Each asset is displayed individually below and can be opened at its original resolution.
 
 ## Browse by Category
 
