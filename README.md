@@ -15,6 +15,50 @@ Created and developed by **Maximilian Vincentius**.
 | :---: |
 | [![Watch Toastator Animation Showcase on YouTube](assets/00-banners/toastator-animation-showcase.jpg)](https://www.youtube.com/watch?v=TaLnoaemmos&autoplay=1) |
 
+## Game Features
+
+Ten gameplay feature screenshots, presented in order. Click an image to view its full resolution.
+
+| **Main Menu & Save Management** |
+| :---: |
+| [![Main Menu & Save Management](assets/09-game-features/01-main-menu-and-save-management.jpg)](assets/09-game-features/01-main-menu-and-save-management.jpg) |
+
+| **Guided Tutorial** |
+| :---: |
+| [![Guided Tutorial](assets/09-game-features/02-guided-tutorial.jpg)](assets/09-game-features/02-guided-tutorial.jpg) |
+
+| **Touch Controls** |
+| :---: |
+| [![Touch Controls](assets/09-game-features/03-touch-controls.jpg)](assets/09-game-features/03-touch-controls.jpg) |
+
+| **Combat, Enemies & Boss** |
+| :---: |
+| [![Combat, Enemies & Boss](assets/09-game-features/04-combat-enemies-boss.jpg)](assets/09-game-features/04-combat-enemies-boss.jpg) |
+
+| **Missions & Level Progression** |
+| :---: |
+| [![Missions & Level Progression](assets/09-game-features/05-missions-and-level-progression.jpg)](assets/09-game-features/05-missions-and-level-progression.jpg) |
+
+| **Six Skills & Upgrades** |
+| :---: |
+| [![Six Skills & Upgrades](assets/09-game-features/06-six-skills-and-upgrades.jpg)](assets/09-game-features/06-six-skills-and-upgrades.jpg) |
+
+| **Exploration, Destruction & Loot** |
+| :---: |
+| [![Exploration, Destruction & Loot](assets/09-game-features/07-exploration-destruction-loot.jpg)](assets/09-game-features/07-exploration-destruction-loot.jpg) |
+
+| **Player Status & Skill Timers** |
+| :---: |
+| [![Player Status & Skill Timers](assets/09-game-features/08-player-status-and-skill-timers.jpg)](assets/09-game-features/08-player-status-and-skill-timers.jpg) |
+
+| **Game Settings** |
+| :---: |
+| [![Game Settings](assets/09-game-features/09-game-settings.jpg)](assets/09-game-features/09-game-settings.jpg) |
+
+| **Game Over & Recovery** |
+| :---: |
+| [![Game Over & Recovery](assets/09-game-features/10-game-over-and-recovery.jpg)](assets/09-game-features/10-game-over-and-recovery.jpg) |
+
 **Click either banner to watch on YouTube.** Each link requests immediate playback using `autoplay=1`. Actual autoplay behavior is controlled by YouTube, browser settings, and device policies.
 
 ## About the Project
@@ -36,7 +80,7 @@ Developed by **Maximilian Vincentius**, the project uses **Adobe Photoshop** for
 | Art Production | Adobe Photoshop |
 | Game Engine | Unity |
 | Programming Language | C# |
-| Included Media | **113 PNG asset showcases** and **2 JPG video banners** |
+| Included Media | **113 PNG asset showcases**, **2 JPG video banners**, and **10 JPG feature screenshots** |
 | Video Previews | Gameplay and animation showcase on YouTube |
 | Repository Scope | Showcase imagery and documentation only |
 
@@ -74,6 +118,7 @@ Selected visual assets were exported as PNG files and organized into topical fol
 | Category | Images |
 | --- | ---: |
 | [Video Banners](assets/00-banners/README.md) | 2 |
+| [Game Features](assets/09-game-features/README.md) | 10 |
 | [Branding & Backgrounds](assets/01-branding-and-backgrounds/README.md) | 2 |
 | [Characters](assets/02-characters/README.md) | 7 |
 | [Environment](assets/03-environment/README.md) | 16 |
@@ -85,7 +130,7 @@ Selected visual assets were exported as PNG files and organized into topical fol
 
 ## Complete Asset Showcase
 
-All **113 PNG assets** are presented below **exactly once**, with **one asset per display row**. Click an image to view its full-resolution file. The **2 JPG YouTube banners** appear at the top of this README rather than being repeated here.
+All **113 PNG assets** are presented below **exactly once**, with **one asset per display row**. Click an image to view its full-resolution file. The **2 JPG YouTube banners** and **10 JPG feature screenshots** appear above rather than being repeated here.
 
 ### Branding & Backgrounds
 
@@ -587,10 +632,11 @@ Toastator/
 │   │   ├── ambient-and-combat/
 │   │   ├── combat-variants/
 │   │   └── skill-upgrades/
-│   └── 08-user-interface/            # Buttons, HUD, result panels
-│       ├── buttons/
-│       ├── hud-and-controls/
-│       └── panels-and-results/
+│   ├── 08-user-interface/            # Buttons, HUD, result panels
+│   │   ├── buttons/
+│   │   ├── hud-and-controls/
+│   │   └── panels-and-results/
+│   └── 09-game-features/             # Ten gameplay feature screenshots
 ├── LICENSE.txt                       # All rights reserved
 └── README.md                         # Overview and full asset gallery
 ```
