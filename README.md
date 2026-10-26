@@ -7,7 +7,7 @@ Created and developed by **Maximilian Vincentius**.
 
 **Toastator** is a stylized, kitchen-themed game featuring a chef character, bread and crouton enemies, and a toaster boss. Its visual collection includes playable-character designs, weapon concepts, collectible items, kitchen environments, skill illustrations, combat effects, and game interface artwork.
 
-Developed by **Maximilian Vincentius**, the project uses **Adobe Photoshop** for the artwork, **Unity** as the game engine, and **C#** for development. The two YouTube videos above present the gameplay and animation showcase.
+Developed by **Maximilian Vincentius**, the project uses **Adobe Photoshop** for the artwork, **Unity** as the game engine, and **C#** for development. The two YouTube videos below present the gameplay and animation showcase.
 
 > **Portfolio-only repository:** This is a curated visual showcase, not a downloadable game or Unity source repository. Unity source project files, C# scripts, editable Photoshop/PSD documents, and playable builds are **not included**.
 
@@ -54,6 +54,23 @@ The showcase includes animation-related image assets, sprite-sheet artwork, and 
 ### 4. Portfolio Documentation
 
 Selected visual assets were exported as PNG files and organized into topical folders. Each asset is displayed individually below and can be opened at its original resolution.
+
+## Browse by Category
+
+| Category | Images |
+| --- | ---: |
+| [Video Banners](assets/00-banners/README.md) | 2 |
+| [Game Features](assets/09-game-features/README.md) | 10 |
+| [Branding & Backgrounds](assets/01-branding-and-backgrounds/README.md) | 2 |
+| [Characters](assets/02-characters/README.md) | 7 |
+| [Environment](assets/03-environment/README.md) | 16 |
+| [Items & Drops](assets/04-items-and-drops/README.md) | 5 |
+| [Weapons & Attacks](assets/05-weapons-and-attacks/README.md) | 5 |
+| [Skill Icons](assets/06-skill-icons/README.md) | 15 |
+| [Visual Effects](assets/07-effects/README.md) | 45 |
+| [User Interface](assets/08-user-interface/README.md) | 18 |
+
+**Watch on YouTube:** Click either showcase banner below to open its video.
 
 ## ▶ Gameplay Showcase
 
@@ -110,23 +127,6 @@ Ten gameplay feature screenshots, presented in order. Click an image to view its
 | **Game Over & Recovery** |
 | :---: |
 | [![Game Over & Recovery](assets/09-game-features/10-game-over-and-recovery.jpg)](assets/09-game-features/10-game-over-and-recovery.jpg) |
-
-**Click either banner to watch on YouTube.** Each link requests immediate playback using `autoplay=1`. Actual autoplay behavior is controlled by YouTube, browser settings, and device policies.
-
-## Browse by Category
-
-| Category | Images |
-| --- | ---: |
-| [Video Banners](assets/00-banners/README.md) | 2 |
-| [Game Features](assets/09-game-features/README.md) | 10 |
-| [Branding & Backgrounds](assets/01-branding-and-backgrounds/README.md) | 2 |
-| [Characters](assets/02-characters/README.md) | 7 |
-| [Environment](assets/03-environment/README.md) | 16 |
-| [Items & Drops](assets/04-items-and-drops/README.md) | 5 |
-| [Weapons & Attacks](assets/05-weapons-and-attacks/README.md) | 5 |
-| [Skill Icons](assets/06-skill-icons/README.md) | 15 |
-| [Visual Effects](assets/07-effects/README.md) | 45 |
-| [User Interface](assets/08-user-interface/README.md) | 18 |
 
 ## Complete Asset Showcase
 
